@@ -6,7 +6,7 @@ import plotly.express as px
 st.set_page_config(layout="wide", page_title="Dashboard de Vendas")
 
 # Exibir a logomarca
-st.image("logo.jpg", width=200)  # Substitua pelo caminho da sua logo ou URL da imagem
+st.image("https://t4.ftcdn.net/jpg/08/12/98/83/360_F_812988320_hCynLfaWC2RjcGc7P0jVjssJJgB0fas4.jpg", width=200)  # Substitua pelo caminho da sua logo ou URL da imagem
 
 # URL da planilha publicada no Google Sheets (substitua pelo seu link)
 URL_SHEET = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQoxoiVZ7UfM0vHtkieyby0zOQrtBl19D5R6j5wb8dKR62izmZjWuC3qeoAX9-wnO2AlVaSfqvK7pn7/pub?gid=0&single=true&output=csv"
